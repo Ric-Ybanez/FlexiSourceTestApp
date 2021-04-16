@@ -1,9 +1,6 @@
 ﻿# FlexiSourceTestApp
 
-Thank you for your interest in becoming part of the tech team at TyreConnect.
-The experience you have outlined in your resume is in line with the requirements for this position,
-and I would now like to invite you to complete the next stage of the application process which
-involves completing a simple .NET Core test.
+completing a simple .NET Core test.
 Please make sure your solution meets all of the following requirements and has a GUI in Angular
 that works:
  Accepts two strings as input: one string is called &quot;text&quot; and the other is called &quot;subtext&quot; in
@@ -32,10 +29,3 @@ Candidates who pass the test do so for the following:
  Good algorithm
  Good implementation
  Good solution structure 
-Use this opportunity to shows the ability to understand requirements, design and implement an
-elegant, understandable, maintainable and tested code.
-After completion host the application on any provider of your liking (with a public URL) and upload
-the code on to GitHub.
-PLEASE ENSURE YOUR SOLUTION PASSES ALL OF THE REQUIREMENTS
-If you have any questions, please feel free to reach out. 
-Good luck.
