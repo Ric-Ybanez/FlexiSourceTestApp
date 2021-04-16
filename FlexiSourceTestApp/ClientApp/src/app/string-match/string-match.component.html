@@ -1,0 +1,22 @@
+<h1>FlexiSource Test Application</h1>
+<div class="row">
+  <input type="text" [(ngModel)]="request.text" placeholder="Text" />
+</div>
+<br />
+<div class="row" fxFlex="100">
+  <input type="text" [(ngModel)]="request.subText" placeholder="Subtext"/>
+</div>
+<br />
+
+<button (click)="submitClick()">Submit</button>
+<br />
+<br />
+<span>Output:</span>
+<div *ngFor="let output of response.matchFirstIndexes">
+  <span>{{ output }}</span>
+</div>
+
+
+<style>
+
+</style>
